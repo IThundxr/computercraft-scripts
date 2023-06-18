@@ -12,8 +12,6 @@ if detector == nil then error("playerDetector not found") end
 local whitelist = {
     ["IThundxr"] = true,
     ["IThundxrwastaken"] = true,
-    ["IceChief2862"] = true,
-    ["Bl1tz_Gam1ng"] = true
 }
 
 local pinged = false
